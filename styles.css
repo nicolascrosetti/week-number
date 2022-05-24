@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Belleza&family=Krona+One&display=swap');
+
+body{
+    background-color: #DDDDDD;
+}
+
+.container{
+    background-color: #001f3f;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    padding: 9%;
+    font-family: 'Belleza', sans-serif;
+    font-size: 38px;
+    color: white;
+    border-radius: 5px;
+}
