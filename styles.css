@@ -15,3 +15,13 @@ body{
     color: white;
     border-radius: 5px;
 }
+
+/* Media Queries */
+@media (max-width: 700px) {
+    .container{
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 11%;
+        font-size: 28px;
+    }
+  }
